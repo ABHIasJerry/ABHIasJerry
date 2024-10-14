@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Robot Framework, PlayRight, NodeJs, ReactJs**
 
-- 💬 Ask me about **Java, Python, Embedded C**
+- 💬 Ask me about **Java, Python, Embedded C, Raspberry Pi, GPS, NaVIC**
 
-- 📫 How to reach me **ahinabaemail@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/abhinaba-g-069078108/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
