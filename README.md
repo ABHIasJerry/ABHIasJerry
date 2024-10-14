@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20230616/original/pngtree-modern-profile-web-banner-background-in-3d-render-picture-image_3652219.jpg)
+![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="left">Hi 👋, I'm Abhinaba Ghosh</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 <img aligh="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif">
