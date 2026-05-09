@@ -1,7 +1,7 @@
 ![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="left">Hi 👋, I'm Abhinaba Ghosh</h1>
 <h3 align="left">A passionate Embedded/Iot/GenAI/Data-Science[AI/ML] developer | Somewhere on Earth | 8+ YRS Experienced.</h3>
-<img aligh="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif">
+<img aligh="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiasjerry&label=Profile%20views&color=0e75b6&style=flat" alt="abhiasjerry" /> </p>
 
