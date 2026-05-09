@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=abhiasjerry&show_icons=true&theme=radical](https://imgcdn.stablediffusionweb.com/2024/11/30/fd52e9f8-572c-4ad0-be66-00db2a0ae9e1.jpg)" alt="GitHub Stats" />
+  <img src="https://imgcdn.stablediffusionweb.com/2024/11/30/fd52e9f8-572c-4ad0-be66-00db2a0ae9e1.jpg" alt=" Git-Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiasjerry&theme=radical" alt="GitHub Streak" />
