@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://imgcdn.stablediffusionweb.com/2024/11/30/fd52e9f8-572c-4ad0-be66-00db2a0ae9e1.jpg" width="30" height="30"/" alt=" Git-Stats" />
+  <img src="https://imgcdn.stablediffusionweb.com/2024/11/30/fd52e9f8-572c-4ad0-be66-00db2a0ae9e1.jpg" width="30" height="30" alt=" My Git-Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiasjerry&theme=radical" alt="GitHub Streak" />
