@@ -1,5 +1,12 @@
-![MasterHead]
+<p align="right">
+  <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">🔴 LIVE</span>
+</p>
 
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>
 <p align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead"/>
 </p>
