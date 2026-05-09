@@ -92,3 +92,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiasjerry&theme=radical" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <sub>© 2026-27 Abhinaba Ghosh · All rights reserved.</sub>
+</p>
