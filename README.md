@@ -22,7 +22,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </a>
@@ -40,7 +39,6 @@
 </a>
 <!-- Continue with the rest of your icons in the same pattern -->
 
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiasjerry&show_icons=true&locale=en&layout=compact" alt="abhiasjerry" /></p>
 
