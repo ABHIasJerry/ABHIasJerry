@@ -35,53 +35,53 @@
 ## 🛠️ Skills & Technologies
 
 ### 🖥️ Programming Languages
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/> 
 
 ### 🌐 Web Development
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)  
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)  
-![Django](https://cdn.worldvectorlogo.com/logos/django.svg)  
-![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)  
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30"/> 
 
 ### 📱 Mobile Development
-![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)  
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30"/> 
 
 ### ☁️ Cloud & DevOps
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)  
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)  
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/> 
 
 ### 🗄️ Databases
-![Snowflake](https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg)  
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)  
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)  
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="30" height="30"/> 
 
 ### 🤖 AI & Machine Learning
-![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)  
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)  
-![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)  
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)  
-![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)  
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" height="30"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" height="30"/> 
 
 ### ⚙️ Tools & Others
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)  
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)  
-![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)  
-![Qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg)  
-![Selenium](https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg)  
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)  
-![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)  
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)  
-![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)  
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30" height="30"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30"/> 
 
 ---
 
