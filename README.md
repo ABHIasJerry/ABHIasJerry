@@ -1,5 +1,8 @@
-![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead]
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead"/>
+</p>
 <h1 align="center">Hi 👋, I'm Abhinaba Ghosh</h1>
 <h3 align="center">🚀 Embedded | IoT | GenAI | Data Science (AI/ML) Developer | 8+ Years Experience</h3>
 
